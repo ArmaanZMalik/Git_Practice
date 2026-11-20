@@ -1,0 +1,2 @@
+Hello reader,
+This repo includes the coding practice done by the author.
